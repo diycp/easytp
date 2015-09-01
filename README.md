@@ -1,6 +1,3 @@
-# easytp
-thinkphp + easyui开发的管理系统
-
 # 演示地址
 http://easytp.sinaapp.com (暂不开放)
 
